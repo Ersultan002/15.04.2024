@@ -28,6 +28,6 @@ for person in list_1:
 count = len(list_1)
 
 
-average_age = total_age / count
+a = total_age / count
 
-print("Average age:", average_age)
+print("Орташа жас:", a)
